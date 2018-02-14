@@ -14,7 +14,6 @@ article {
     float: left;
     margin: 0 20px 20px 0;
     overflow: hidden;
-    position: absolute;
 }
 #river .article-wrapper .article-media-thumbnail a img {
     height: 120px !important;
